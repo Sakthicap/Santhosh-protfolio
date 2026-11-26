@@ -12,7 +12,7 @@ export function Hero() {
         <p className="hero-entrance mt-9 max-w-xl text-base leading-8 text-slate-300 md:text-lg">I’m Santhoshperumal — I plan, optimize and analyze digital campaigns that connect the right audience with the right message.</p>
         <div className="hero-entrance mt-9 flex flex-wrap gap-3">
           <Button asChild><a href="#work">Explore my work <ArrowUpRight size={16}/></a></Button>
-          <Button asChild variant="outline"><a href="/Santhoshperumal-Resume.pdf" target="_blank" rel="noreferrer">View resume <Download size={15}/></a></Button>
+          <Button asChild variant="outline"><a href="/Santhoshperumal_Resume.pdf" target="_blank" rel="noreferrer">View resume <Download size={15}/></a></Button>
         </div>
         <div className="hero-entrance mt-14 flex items-center gap-3 text-xs text-slate-400"><span className="relative flex h-2 w-2"><span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-sky-300 opacity-60"/><span className="relative inline-flex h-2 w-2 rounded-full bg-sky-300"/></span> Open to digital marketing opportunities</div>
       </div>

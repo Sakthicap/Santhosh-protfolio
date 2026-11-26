@@ -12,7 +12,7 @@ export function Contact() {
      <a href="https://www.linkedin.com/in/santhoshperumal-j" target="_blank" rel="noreferrer" className="flex items-center gap-3 text-sm text-slate-300 transition hover:text-sky-200"><ArrowUpRight size={17} className="text-sky-300"/>LinkedIn profile</a>
      <p className="text-xs text-slate-500">Chennai, India · Tamil · English · Kannada</p>
     </div>
-    <a href="/Santhoshperumal-Resume.pdf" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full border border-sky-300/50 bg-sky-300/10 px-6 py-4 text-sm font-semibold text-sky-100 transition hover:-translate-y-1 hover:bg-sky-300/20">Download resume <Download size={16}/></a>
+    <a href="/Santhoshperumal_Resume.pdf" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full border border-sky-300/50 bg-sky-300/10 px-6 py-4 text-sm font-semibold text-sky-100 transition hover:-translate-y-1 hover:bg-sky-300/20">Download resume <Download size={16}/></a>
    </div>
    <footer className="mt-24 flex flex-col justify-between gap-3 border-t border-white/10 pt-6 text-[10px] uppercase tracking-[.18em] text-slate-500 md:flex-row"><span>© {new Date().getFullYear()} Santhoshperumal J</span><span>Strategy · Creativity · Measurable growth</span></footer>
   </div>
