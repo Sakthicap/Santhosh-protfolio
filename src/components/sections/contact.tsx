@@ -10,7 +10,7 @@ export function Contact() {
      <a href="mailto:santhoshperumal2020@gmail.com" className="flex items-center gap-3 text-lg text-white transition hover:text-sky-200"><Mail size={19} className="text-sky-300"/>santhoshperumal2020@gmail.com</a>
      <a href="tel:+916380485693" className="flex items-center gap-3 text-sm text-slate-300 transition hover:text-sky-200"><Phone size={17} className="text-sky-300"/>+91 63804 85693</a>
      <a href="https://www.linkedin.com/in/santhoshperumal-j" target="_blank" rel="noreferrer" className="flex items-center gap-3 text-sm text-slate-300 transition hover:text-sky-200"><ArrowUpRight size={17} className="text-sky-300"/>LinkedIn profile</a>
-     <p className="text-xs text-slate-500">Chennai, India · Tamil · English · Kannada</p>
+     <p className="text-xs text-slate-500">Salem, India · Tamil · English · Kannada</p>
     </div>
     <a href="/Santhoshperumal_Resume.pdf" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-full border border-sky-300/50 bg-sky-300/10 px-6 py-4 text-sm font-semibold text-sky-100 transition hover:-translate-y-1 hover:bg-sky-300/20">Download resume <Download size={16}/></a>
    </div>
